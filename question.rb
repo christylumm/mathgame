@@ -1,9 +1,8 @@
 # # QUESTION
 # need to keep track of: 
 # - answers
-
-# methods: 
-# - generate questions
+# - number 1, number 2
+# - question to display
 
 class Question 
   attr_accessor :answer, :display
